@@ -1,5 +1,10 @@
-type://user:pass@ip:port
-type://user:pass:ip:port
-type://ip:port:user:pass
-type://ip:port@user:pass
-type://ip:port
+socks5://djfepvgx:m57meck1bk8b@154.36.110.199:6853
+socks5://djfepvgx:m57meck1bk8b@167.160.180.203:6754
+socks5://djfepvgx:m57meck1bk8b@45.151.162.198:6600
+socks5://djfepvgx:m57meck1bk8b@38.154.227.167:5868
+socks5://djfepvgx:m57meck1bk8b@206.41.172.74:6634
+socks5://djfepvgx:m57meck1bk8b@207.244.217.165:6712
+socks5://djfepvgx:m57meck1bk8b@104.239.105.125:6655
+socks5://djfepvgx:m57meck1bk8b@107.172.163.27:6543
+socks5://djfepvgx:m57meck1bk8b@173.211.0.148:6641
+socks5://djfepvgx:m57meck1bk8b@198.23.239.134:6540
