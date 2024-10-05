@@ -1,3 +1,7 @@
+socks5://zctuddva:xy1j8z7ucwrs@198.23.239.134:6540
+socks5://zctuddva:xy1j8z7ucwrs@207.244.217.165:6712
+socks5://zctuddva:xy1j8z7ucwrs@107.172.163.27:6543
+socks5://zctuddva:xy1j8z7ucwrs@173.211.0.148:6641
 socks5://djfepvgx:m57meck1bk8b@154.36.110.199:6853
 socks5://djfepvgx:m57meck1bk8b@167.160.180.203:6754
 socks5://djfepvgx:m57meck1bk8b@45.151.162.198:6600
